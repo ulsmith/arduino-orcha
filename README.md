@@ -10,6 +10,8 @@ Use as many chains as you like to group chunks of movement.
 
 Use many sequneces to build routines.
 
+Use together with Kinematics library to created simple movement combinations for x, y and z (see https://github.com/ulsmith/roamer-kernel) using legs to handle kinematics
+
 ## Introducation
 
 ## Example
